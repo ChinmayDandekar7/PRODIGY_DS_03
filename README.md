@@ -1,4 +1,4 @@
-Task: Decision Tree Classifier for Product Purchase Prediction
+Decision Tree Classifier for Product Purchase Prediction
 
 Overview:
 This task is part of my Data Science internship at Prodigy InfoTech, where I built a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. I used a dataset similar to the Bank Marketing dataset from the UCI Machine Learning Repository.
